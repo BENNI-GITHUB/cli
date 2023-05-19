@@ -1,2 +1,3 @@
 ones upon a time
 Hello world
+This is a sample text to check the diff
